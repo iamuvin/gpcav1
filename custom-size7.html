@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./custom-size7.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,500;0,700;0,900;1,500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="custom-size-7">
+      <div class="custom-size-7-child"></div>
+      <img class="asset-3-icon21" alt="" src="./public/asset-3@2x.png" />
+      <img class="asset-2-icon17" alt="" src="./public/asset-22@2x.png" />
+      <b class="awards1">Awards</b>
+      <img
+        class="custom-size-7-item"
+        alt=""
+        src="./public/polygon-47.svg"
+        id="polygon"
+      />
+      <img class="asset-3-icon22" alt="" src="./public/asset-31@2x.png" />
+      <img class="asset-2-icon18" alt="" src="./public/asset-2@2x.png" />
+      <div class="custom-size-7-inner"></div>
+      <div class="custom-size-7-child1"></div>
+      <div class="custom-size-7-child2"></div>
+      <!-- External links with data-external attribute -->
+      <a
+        class="gpca-legacy-initiative"
+        href="https://www.gpca.org.ae/gpca-legacy-initiative-awards/"
+        data-external="true"
+        >GPCA Legacy Initiative & Awards</a
+      >
+      <a
+        class="gpca-excellence-awards"
+        href="https://www.gpca.org.ae/awards/"
+        data-external="true"
+        >GPCA Excellence Awards</a
+      >
+      <a
+        class="gpca-students-competitions-container"
+        href="https://www.gpca.org.ae/gpca-students-competitions/"
+        data-external="true"
+      >
+        <p class="gpca-students-competitions">GPCA Students Competitions</p>
+      </a>
+    </div>
+
+    <!-- External JavaScript file -->
+    <script src="script.js"></script>
+
+    <!-- Internal navigation for polygon icon -->
+    <script>
+      var polygon = document.getElementById("polygon");
+      if (polygon) {
+        polygon.addEventListener("click", function (e) {
+          window.location.href = "./custom-size4.html";
+        });
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,161 @@
+.custom-size-8-child {
+  position: absolute;
+  top: -17px;
+  left: -22px;
+  background-color: var(--color-darkslategray);
+  width: 1405px;
+  height: 1058px;
+}
+.asset-2-icon11,
+.asset-3-icon15 {
+  position: absolute;
+  object-fit: cover;
+}
+.asset-3-icon15 {
+  bottom: -225px;
+  left: -333px;
+  width: 441px;
+  height: 538px;
+}
+.asset-2-icon11 {
+  top: -363.2px;
+  left: -455.97px;
+  width: 668.9px;
+  height: 662.4px;
+}
+.industry-lanscape {
+  position: absolute;
+  top: 75.77px;
+  left: 387px;
+  font-size: var(--font-size-33xl);
+  text-transform: uppercase;
+}
+.custom-size-8-item {
+  position: absolute;
+  top: 72.77px;
+  left: 61.84px;
+  width: 57px;
+  height: 66px;
+  cursor: pointer;
+}
+.asset-2-icon12,
+.asset-3-icon16 {
+  position: absolute;
+  object-fit: cover;
+}
+.asset-3-icon16 {
+  right: -106px;
+  bottom: -145px;
+  width: 311px;
+  height: 378px;
+}
+.asset-2-icon12 {
+  top: -363.2px;
+  right: -259.93px;
+  width: 668.9px;
+  height: 662.4px;
+}
+.custom-size-8-child1,
+.custom-size-8-inner {
+  position: absolute;
+  top: 367px;
+  left: 74px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+  opacity: 0.25;
+}
+.custom-size-8-child1 {
+  top: 579px;
+}
+.custom-size-8-child2 {
+  top: 367px;
+  left: 508px;
+}
+.custom-size-8-child2,
+.custom-size-8-child3,
+.custom-size-8-child4,
+.custom-size-8-child5 {
+  position: absolute;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+  opacity: 0.25;
+}
+.custom-size-8-child3 {
+  top: 579px;
+  left: 508px;
+}
+.custom-size-8-child4,
+.custom-size-8-child5 {
+  top: 367px;
+  right: 74px;
+}
+.custom-size-8-child5 {
+  top: 579px;
+}
+.kuwait1 {
+  margin: 0;
+}
+.kuwait,
+.oman {
+  position: absolute;
+  top: 441px;
+  left: 108px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 281px;
+  height: 134px;
+}
+.oman {
+  top: 649px;
+  left: 95px;
+  width: 308px;
+  height: 142px;
+}
+.uae {
+  top: 441px;
+  left: 543px;
+  height: 118px;
+}
+.bahrain,
+.ksa,
+.qatar,
+.uae {
+  position: absolute;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 281px;
+}
+.qatar {
+  top: 645px;
+  left: 543px;
+  height: 93px;
+}
+.bahrain,
+.ksa {
+  top: 441px;
+  right: 107px;
+  height: 134px;
+}
+.bahrain {
+  top: 646px;
+}
+.custom-size-8 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,197 @@
+.dfdfdf-icon {
+  position: absolute;
+  top: 264px;
+  right: -33px;
+  width: 982px;
+  height: 566px;
+  object-fit: cover;
+}
+.custom-size-10-child {
+  position: absolute;
+  top: -17px;
+  left: -22px;
+  background-color: var(--color-darkslategray);
+  width: 1405px;
+  height: 1058px;
+}
+.asset-2-icon,
+.asset-3-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.asset-3-icon {
+  bottom: -225px;
+  left: -333px;
+  width: 441px;
+  height: 538px;
+}
+.asset-2-icon {
+  top: -363.2px;
+  left: -455.97px;
+  width: 668.9px;
+  height: 662.4px;
+}
+.events,
+.upcomming-events {
+  position: absolute;
+  top: 86.77px;
+  left: 336.75px;
+  font-size: var(--font-size-21xl);
+  text-transform: uppercase;
+}
+.upcomming-events {
+  left: 602.75px;
+  opacity: 0.3;
+  cursor: pointer;
+}
+.custom-size-10-item {
+  position: absolute;
+  top: 72.77px;
+  left: 61.84px;
+  width: 57px;
+  height: 66px;
+  cursor: pointer;
+}
+.asset-2-icon1,
+.asset-3-icon1 {
+  position: absolute;
+  object-fit: cover;
+}
+.asset-3-icon1 {
+  right: -106px;
+  bottom: -145px;
+  width: 311px;
+  height: 378px;
+}
+.asset-2-icon1 {
+  top: -363.2px;
+  right: -259.93px;
+  width: 668.9px;
+  height: 662.4px;
+}
+.custom-size-10-inner {
+  position: absolute;
+  bottom: 22.23px;
+  left: 61.84px;
+  width: 1242.3px;
+  height: 731.5px;
+}
+.custom-size-10-child1,
+.custom-size-10-child2 {
+  position: absolute;
+  top: 349px;
+  left: 74px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+  opacity: 0.25;
+}
+.custom-size-10-child2 {
+  top: 561px;
+}
+.custom-size-10-child3 {
+  top: 349px;
+  left: 508px;
+}
+.custom-size-10-child3,
+.custom-size-10-child4,
+.custom-size-10-child5,
+.custom-size-10-child6 {
+  position: absolute;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+  opacity: 0.25;
+}
+.custom-size-10-child4 {
+  top: 561px;
+  left: 508px;
+}
+.custom-size-10-child5,
+.custom-size-10-child6 {
+  top: 349px;
+  right: 74px;
+}
+.custom-size-10-child6 {
+  top: 561px;
+}
+.gpca-plastics-conference {
+  position: absolute;
+  top: 413px;
+  left: 108px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 281px;
+  height: 97px;
+}
+.gpca-responsible-care {
+  margin: 0;
+}
+.gpca-responsible-care-container {
+  position: absolute;
+  top: 636px;
+  left: 95px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 308px;
+  height: 142px;
+}
+.gpca-supply-chain-container {
+  top: 413px;
+  left: 543px;
+  height: 85px;
+}
+.annual-gpca-forum-container,
+.gpca-agri-nutrients-conference-container,
+.gpca-leaders-forum,
+.gpca-supply-chain-container {
+  position: absolute;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 281px;
+}
+.gpca-leaders-forum {
+  top: 636px;
+  left: 543px;
+  height: 135px;
+}
+.annual-gpca-forum-container,
+.gpca-agri-nutrients-conference-container {
+  top: 413px;
+  right: 107px;
+  height: 97px;
+}
+.annual-gpca-forum-container {
+  top: 636px;
+  height: 134px;
+}
+.line-div {
+  position: absolute;
+  top: 135.5px;
+  left: 334.25px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 167px;
+  height: 6px;
+}
+.custom-size-10 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

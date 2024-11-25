@@ -1,0 +1,241 @@
+.custom-size-9-child {
+  position: absolute;
+  top: -17px;
+  left: -22px;
+  background-color: var(--color-darkslategray);
+  width: 1405px;
+  height: 1058px;
+}
+.asset-2-icon7,
+.asset-3-icon10 {
+  position: absolute;
+  object-fit: cover;
+}
+.asset-3-icon10 {
+  bottom: -225px;
+  left: -333px;
+  width: 441px;
+  height: 538px;
+}
+.asset-2-icon7 {
+  top: -363.2px;
+  left: -455.97px;
+  width: 668.9px;
+  height: 662.4px;
+}
+.legacy-pioneers {
+  position: absolute;
+  top: 75.77px;
+  left: 426px;
+  font-size: var(--font-size-33xl);
+  text-transform: uppercase;
+}
+.custom-size-9-item {
+  position: absolute;
+  top: 72.77px;
+  left: 61.84px;
+  width: 57px;
+  height: 66px;
+  cursor: pointer;
+}
+.asset-2-icon8,
+.asset-3-icon11 {
+  position: absolute;
+  object-fit: cover;
+}
+.asset-3-icon11 {
+  right: -106px;
+  bottom: -145px;
+  width: 311px;
+  height: 378px;
+}
+.asset-2-icon8 {
+  top: -363.2px;
+  right: -259.93px;
+  width: 668.9px;
+  height: 662.4px;
+}
+.group-inner {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: -0.02px;
+  bottom: 0;
+  max-height: 100%;
+  width: 87px;
+}
+.swipe-to-start2 {
+  position: absolute;
+  top: calc(50% - 27.59px);
+  left: 0;
+  font-weight: 300;
+}
+.group-div {
+  position: absolute;
+  top: 669.44px;
+  left: 256.89px;
+  width: 463.1px;
+  height: 82.3px;
+  opacity: 0;
+  font-size: var(--font-size-26xl);
+}
+.custom-size-9-inner {
+  position: absolute;
+  top: 146.27px;
+  left: 61.84px;
+  width: 1242.3px;
+  height: 731.5px;
+}
+.custom-size-9-child2,
+.custom-size-9-child3,
+.custom-size-9-child4,
+.custom-size-9-child5 {
+  position: absolute;
+  top: 225px;
+  left: 74px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+  opacity: 0.25;
+}
+.custom-size-9-child3,
+.custom-size-9-child4,
+.custom-size-9-child5 {
+  top: 437px;
+}
+.custom-size-9-child4,
+.custom-size-9-child5 {
+  top: 669px;
+}
+.custom-size-9-child5 {
+  top: 225px;
+  left: 508px;
+}
+.custom-size-9-child6 {
+  top: 437px;
+  left: 508px;
+}
+.custom-size-9-child10,
+.custom-size-9-child6,
+.custom-size-9-child7,
+.custom-size-9-child8,
+.custom-size-9-child9 {
+  position: absolute;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+  opacity: 0.25;
+}
+.custom-size-9-child7 {
+  top: 669px;
+  left: 508px;
+}
+.custom-size-9-child10,
+.custom-size-9-child8,
+.custom-size-9-child9 {
+  top: 225px;
+  right: 74px;
+}
+.custom-size-9-child10,
+.custom-size-9-child9 {
+  top: 437px;
+}
+.custom-size-9-child10 {
+  top: 669px;
+}
+.ghazi-al-gosaibi {
+  margin: 0;
+}
+.ghazi-al-gosaibi-container {
+  position: absolute;
+  top: 289px;
+  left: 108px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 281px;
+  height: 97px;
+}
+.abdulaziz-al-zamil-container,
+.hamad-rashid-al-container,
+.hrh-prince-faisal-container,
+.mohamed-al-mady,
+.yousuf-al-shirawi-container {
+  position: absolute;
+  top: 512px;
+  left: 95px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 308px;
+  height: 142px;
+}
+.hamad-rashid-al-container,
+.hrh-prince-faisal-container,
+.mohamed-al-mady,
+.yousuf-al-shirawi-container {
+  top: 724px;
+  left: 108px;
+  width: 281px;
+  height: 134px;
+}
+.hamad-rashid-al-container,
+.hrh-prince-faisal-container,
+.yousuf-al-shirawi-container {
+  top: 289px;
+  left: 543px;
+  height: 85px;
+}
+.hamad-rashid-al-container,
+.hrh-prince-faisal-container {
+  top: 484px;
+  height: 135px;
+}
+.hamad-rashid-al-container {
+  top: 724px;
+  height: 134px;
+}
+.abdulbaqi-al-nouri,
+.he-mohammed-al-rumhi-container,
+.he-yousef-bin-container {
+  position: absolute;
+  right: 107px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  width: 281px;
+}
+.abdulbaqi-al-nouri {
+  top: 289px;
+  text-decoration: underline;
+  color: inherit;
+  height: 97px;
+}
+.he-mohammed-al-rumhi-container,
+.he-yousef-bin-container {
+  height: 134px;
+}
+.he-yousef-bin-container {
+  top: 512px;
+  text-decoration: underline;
+  color: inherit;
+}
+.he-mohammed-al-rumhi-container {
+  top: 724px;
+}
+.custom-size-9 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

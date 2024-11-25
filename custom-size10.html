@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./custom-size10.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,500;0,700;0,900;1,500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="custom-size-10">
+      <img class="dfdfdf-icon" alt="" src="./public/dfdfdf@2x.png" />
+      <div class="custom-size-10-child"></div>
+      <img class="asset-3-icon" alt="" src="./public/asset-3@2x.png" />
+      <img class="asset-2-icon" alt="" src="./public/asset-2@2x.png" />
+
+      <b class="events">Events</b>
+      <b class="upcomming-events" id="upcommingEventsText">Upcoming Events</b>
+      <img
+        class="custom-size-10-item"
+        alt=""
+        src="./public/polygon-47.svg"
+        id="polygon"
+      />
+
+      <img class="asset-3-icon1" alt="" src="./public/asset-31@2x.png" />
+      <img class="asset-2-icon1" alt="" src="./public/asset-2@2x.png" />
+      <img class="asset-3-icon" alt="" src="./public/asset-3@2x.png" />
+
+      <div class="custom-size-10-inner"></div>
+      <div class="custom-size-10-child1"></div>
+      <div class="custom-size-10-child2"></div>
+      <div class="custom-size-10-child3"></div>
+      <div class="custom-size-10-child4"></div>
+      <div class="custom-size-10-child5"></div>
+      <div class="custom-size-10-child6"></div>
+
+      <!-- External Links Marked -->
+      <a
+        class="gpca-plastics-conference"
+        href="https://gpca.org.ae/conferences/plastics/"
+        data-external="true"
+      >
+        GPCA Plastics Conference
+      </a>
+      <a
+        class="gpca-responsible-care-container"
+        href="https://gpcaresponsiblecare.com/"
+        data-external="true"
+      >
+        <p class="gpca-responsible-care">GPCA Responsible Care Conference</p>
+      </a>
+      <a
+        class="gpca-supply-chain-container"
+        href="https://gpca.org.ae/conferences/scc/"
+        data-external="true"
+      >
+        <p class="gpca-responsible-care">GPCA Supply Chain Conference</p>
+      </a>
+      <a
+        class="gpca-leaders-forum"
+        href="https://www.gpca.org.ae/gpca-leaders-forum/"
+        data-external="true"
+      >
+        GPCA Leaders Forum
+      </a>
+      <a
+        class="gpca-agri-nutrients-conference-container"
+        href="https://gpca.org.ae/conferences/anc/"
+        data-external="true"
+      >
+        <p class="gpca-responsible-care">GPCA Agri-Nutrients Conference</p>
+      </a>
+      <a
+        class="annual-gpca-forum-container"
+        href="https://www.gpcaforum.com/"
+        data-external="true"
+      >
+        <p class="gpca-responsible-care">Annual GPCA Forum</p>
+      </a>
+      <div class="line-div"></div>
+    </div>
+
+    <!-- Include the external script -->
+    <script src="script.js"></script>
+
+    <!-- Internal Navigation Scripts -->
+    <script>
+      // Navigate to custom-size11.html on click of "Upcoming Events"
+      var upcommingEventsText = document.getElementById("upcommingEventsText");
+      if (upcommingEventsText) {
+        upcommingEventsText.addEventListener("click", function () {
+          window.location.href = "./custom-size11.html";
+        });
+      }
+
+      // Navigate to custom-size4.html on click of "Polygon"
+      var polygon = document.getElementById("polygon");
+      if (polygon) {
+        polygon.addEventListener("click", function () {
+          window.location.href = "./custom-size4.html";
+        });
+      }
+    </script>
+  </body>
+</html>

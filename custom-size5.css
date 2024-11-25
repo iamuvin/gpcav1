@@ -1,0 +1,283 @@
+.custom-size-5-child {
+  position: absolute;
+  top: -17px;
+  left: -22px;
+  background-color: var(--color-darkslategray);
+  width: 1405px;
+  height: 1058px;
+}
+.check-out-our {
+  margin: 0;
+}
+.new-features {
+  margin: 0;
+  font-size: var(--font-size-93xl);
+  font-weight: 900;
+}
+.check-out-our-new-container {
+  position: absolute;
+  top: 407px;
+  left: 0;
+  text-transform: uppercase;
+  opacity: 0;
+  font-size: var(--font-size-60xl);
+}
+.asset-2-icon19,
+.asset-3-icon23 {
+  position: absolute;
+  object-fit: cover;
+}
+.asset-3-icon23 {
+  bottom: -225px;
+  left: -333px;
+  width: 441px;
+  height: 538px;
+}
+.asset-2-icon19 {
+  top: -363.2px;
+  left: -455.97px;
+  width: 668.9px;
+  height: 662.4px;
+}
+.group-child1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: -0.02px;
+  bottom: 0;
+  max-height: 100%;
+  width: 87px;
+}
+.swipe-to-start3 {
+  position: absolute;
+  top: calc(50% - 27.59px);
+  left: 0;
+  font-weight: 300;
+}
+.group-parent2 {
+  position: absolute;
+  top: 669.44px;
+  left: 256.9px;
+  width: 463.1px;
+  height: 82.3px;
+  opacity: 0;
+  font-size: var(--font-size-26xl);
+}
+.custom-size-5-item {
+  position: absolute;
+  top: 146.27px;
+  left: 61.84px;
+  width: 1242.3px;
+  height: 731.5px;
+}
+.latest-publications1 {
+  position: absolute;
+  top: 75.77px;
+  left: 370px;
+  font-size: var(--font-size-33xl);
+  text-transform: uppercase;
+}
+.polygon-icon {
+  position: absolute;
+  top: 72.77px;
+  left: 61.84px;
+  width: 57px;
+  height: 66px;
+  cursor: pointer;
+}
+.asset-2-icon20,
+.asset-3-icon24 {
+  position: absolute;
+  object-fit: cover;
+}
+.asset-3-icon24 {
+  right: -106px;
+  bottom: -145px;
+  width: 311px;
+  height: 378px;
+}
+.asset-2-icon20 {
+  top: -363.2px;
+  right: -259.93px;
+  width: 668.9px;
+  height: 662.4px;
+}
+.custom-size-5-child1 {
+  position: absolute;
+  top: 437px;
+  left: 74px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+  opacity: 0.25;
+}
+.custom-size-5-child2 {
+  left: 74px;
+}
+.custom-size-5-child2,
+.custom-size-5-child3,
+.custom-size-5-child4 {
+  position: absolute;
+  top: 669px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+  opacity: 0.25;
+}
+.custom-size-5-child3 {
+  left: 508px;
+}
+.custom-size-5-child4 {
+  right: 74px;
+}
+.the-gcc-petrochemical-container {
+  position: absolute;
+  height: calc(100% - 38px);
+  width: calc(100% - 68px);
+  top: 36px;
+  left: 34px;
+  font-weight: 500;
+  display: inline-block;
+}
+.the-gcc-petrochemical-and-chem-wrapper {
+  position: absolute;
+  top: 225px;
+  left: 74px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+}
+.pathways-toward-circular-container,
+.resilient-by-design-anti-frag-container {
+  position: absolute;
+  top: 459px;
+  left: 95px;
+  font-weight: 500;
+  display: inline-block;
+  width: 308px;
+  height: 142px;
+}
+.pathways-toward-circular-container {
+  top: 701px;
+  left: 108px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  color: inherit;
+  width: 281px;
+  height: 134px;
+}
+.responsible-care-performance {
+  position: absolute;
+  height: calc(100% - 54px);
+  width: calc(100% - 68px);
+  top: 42px;
+  left: 35px;
+  font-weight: 500;
+  display: inline-block;
+}
+.responsible-care-performance-m-wrapper {
+  position: absolute;
+  top: 225px;
+  left: 508px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+}
+.gpca {
+  font-weight: 500;
+}
+.gpca-insight {
+  position: absolute;
+  width: calc(100% - 68px);
+  bottom: 12px;
+  left: 35px;
+  text-transform: uppercase;
+  display: inline-block;
+  height: 93px;
+}
+.gpca-insight-wrapper {
+  position: absolute;
+  top: 437px;
+  left: 508px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+}
+.digital-technology-adoption-container {
+  position: absolute;
+  top: 701px;
+  left: 543px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 281px;
+  height: 134px;
+}
+.low-carbon-maritime-transport-container {
+  position: absolute;
+  height: calc(100% - 38px);
+  width: calc(100% - 68px);
+  top: 26px;
+  left: 35px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.low-carbon-maritime-transport-wrapper {
+  position: absolute;
+  top: 225px;
+  right: 74px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+}
+.potential-gcc-trkiye-fta {
+  position: absolute;
+  height: calc(100% - 38px);
+  width: calc(100% - 68px);
+  top: 26px;
+  left: 35px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+}
+.potential-gcc-trkiye-fta-imp-wrapper {
+  position: absolute;
+  top: 437px;
+  right: 74px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+}
+.the-impact-of-container {
+  position: absolute;
+  top: 701px;
+  right: 107px;
+  text-decoration: underline;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 281px;
+  height: 134px;
+}
+.custom-size-5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

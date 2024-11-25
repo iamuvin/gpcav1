@@ -1,0 +1,82 @@
+.custom-size-3-child {
+  position: absolute;
+  top: -17px;
+  left: -22px;
+  background-color: var(--color-darkslategray);
+  width: 1405px;
+  height: 1058px;
+}
+.learn-more-about {
+  margin: 0;
+}
+.gpcas-activ {
+  font-weight: 900;
+}
+.gpcas-activities {
+  margin: 0;
+  font-size: var(--font-size-93xl);
+}
+.learn-more-about-gpcas-container {
+  position: absolute;
+  top: 396px;
+  left: 111px;
+  text-transform: uppercase;
+}
+.asset-2-icon2,
+.asset-3-icon3 {
+  position: absolute;
+  object-fit: cover;
+}
+.asset-3-icon3 {
+  right: -282px;
+  bottom: -304px;
+  width: 760px;
+  height: 928px;
+}
+.asset-2-icon2 {
+  top: -285px;
+  left: -296px;
+  width: 955px;
+  height: 854px;
+}
+.group-child {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: -0.02px;
+  bottom: 0;
+  max-height: 100%;
+  width: 87px;
+}
+.swipe-to-start {
+  position: absolute;
+  top: calc(50% - 27.59px);
+  left: 0;
+  font-weight: 300;
+}
+.group-parent {
+  position: absolute;
+  top: 658.44px;
+  left: 459.9px;
+  width: 463.1px;
+  height: 82.3px;
+  cursor: pointer;
+  font-size: var(--font-size-26xl);
+}
+.custom-size-3-item {
+  position: absolute;
+  top: 64.05px;
+  right: 53.47px;
+  width: 299.1px;
+  height: 155.9px;
+}
+.custom-size-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  text-align: center;
+  font-size: var(--font-size-60xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

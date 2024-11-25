@@ -1,0 +1,194 @@
+.custom-size-12-child {
+  position: absolute;
+  top: -17px;
+  left: -22px;
+  background-color: var(--color-darkslategray);
+  width: 1405px;
+  height: 1058px;
+}
+.asset-2-icon3,
+.asset-3-icon4 {
+  position: absolute;
+  object-fit: cover;
+}
+.asset-3-icon4 {
+  bottom: -225px;
+  left: -333px;
+  width: 441px;
+  height: 538px;
+}
+.asset-2-icon3 {
+  top: -363.2px;
+  left: -455.97px;
+  width: 668.9px;
+  height: 662.4px;
+}
+.committees {
+  position: absolute;
+  top: 75.77px;
+  left: 500px;
+  font-size: var(--font-size-33xl);
+  text-transform: uppercase;
+}
+.custom-size-12-item {
+  position: absolute;
+  top: 72.77px;
+  left: 61.84px;
+  width: 57px;
+  height: 66px;
+  cursor: pointer;
+}
+.asset-2-icon4,
+.asset-3-icon5 {
+  position: absolute;
+  object-fit: cover;
+}
+.asset-3-icon5 {
+  right: -106px;
+  bottom: -145px;
+  width: 311px;
+  height: 378px;
+}
+.asset-2-icon4 {
+  top: -363.2px;
+  right: -259.93px;
+  width: 668.9px;
+  height: 662.4px;
+}
+.group-item {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: -0.02px;
+  bottom: 0;
+  max-height: 100%;
+  width: 87px;
+}
+.swipe-to-start1 {
+  position: absolute;
+  top: calc(50% - 27.59px);
+  left: 0;
+  font-weight: 300;
+}
+.group-container {
+  position: absolute;
+  top: 771.72px;
+  left: 256.89px;
+  width: 463.1px;
+  height: 82.3px;
+  opacity: 0;
+  font-size: var(--font-size-26xl);
+}
+.custom-size-12-inner {
+  position: absolute;
+  bottom: 43.96px;
+  left: 61.84px;
+  width: 1242.3px;
+  height: 731.5px;
+}
+.custom-size-12-child2,
+.custom-size-12-child3 {
+  position: absolute;
+  top: 327.27px;
+  left: 74px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+  opacity: 0.25;
+}
+.custom-size-12-child3 {
+  top: 539.27px;
+}
+.custom-size-12-child4 {
+  top: 327.27px;
+  left: 508px;
+}
+.custom-size-12-child4,
+.custom-size-12-child5,
+.custom-size-12-child6,
+.custom-size-12-child7 {
+  position: absolute;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+  opacity: 0.25;
+}
+.custom-size-12-child5 {
+  top: 539.27px;
+  left: 508px;
+}
+.custom-size-12-child6,
+.custom-size-12-child7 {
+  top: 327.27px;
+  right: 74px;
+}
+.custom-size-12-child7 {
+  top: 539.27px;
+}
+.plastics-committee {
+  position: absolute;
+  top: 391.27px;
+  left: 108px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 281px;
+  height: 97px;
+}
+.research-innovation {
+  margin: 0;
+}
+.international-trade-committee-container,
+.research-innovation-container,
+.responsible-care-committee-container {
+  position: absolute;
+  top: 586.27px;
+  left: 95px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 308px;
+  height: 142px;
+}
+.international-trade-committee-container,
+.responsible-care-committee-container {
+  top: 391.27px;
+  left: 543px;
+  width: 281px;
+  height: 85px;
+}
+.international-trade-committee-container {
+  top: 586.27px;
+  height: 135px;
+}
+.agri-nutrients-committee,
+.supply-chain-committee-container {
+  position: absolute;
+  top: 391.27px;
+  right: 107px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  width: 281px;
+  height: 97px;
+}
+.agri-nutrients-committee {
+  top: 586.27px;
+  height: 134px;
+}
+.custom-size-12 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

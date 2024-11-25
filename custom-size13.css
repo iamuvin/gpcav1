@@ -1,0 +1,114 @@
+.custom-size-13-child {
+  position: absolute;
+  top: -17px;
+  left: -22px;
+  background-color: var(--color-darkslategray);
+  width: 1405px;
+  height: 1058px;
+}
+.asset-2-icon9,
+.asset-3-icon13 {
+  position: absolute;
+  object-fit: cover;
+}
+.asset-3-icon13 {
+  bottom: -225px;
+  left: -333px;
+  width: 441px;
+  height: 538px;
+}
+.asset-2-icon9 {
+  top: -363.2px;
+  left: -455.97px;
+  width: 668.9px;
+  height: 662.4px;
+}
+.campaigns {
+  position: absolute;
+  top: 75.77px;
+  left: 516px;
+  font-size: var(--font-size-33xl);
+  text-transform: uppercase;
+}
+.custom-size-13-item {
+  position: absolute;
+  top: 72.77px;
+  left: 61.84px;
+  width: 57px;
+  height: 66px;
+  cursor: pointer;
+}
+.asset-2-icon10,
+.asset-3-icon14 {
+  position: absolute;
+  object-fit: cover;
+}
+.asset-3-icon14 {
+  right: -106px;
+  bottom: -145px;
+  width: 311px;
+  height: 378px;
+}
+.asset-2-icon10 {
+  top: -363.2px;
+  right: -259.93px;
+  width: 668.9px;
+  height: 662.4px;
+}
+.custom-size-13-inner {
+  left: 74px;
+}
+.custom-size-13-child1,
+.custom-size-13-child2,
+.custom-size-13-inner {
+  position: absolute;
+  top: 367px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #fff, rgba(128, 128, 128, 0));
+  width: 349px;
+  height: 172px;
+  opacity: 0.25;
+}
+.custom-size-13-child1 {
+  left: 508px;
+}
+.custom-size-13-child2 {
+  right: 74px;
+}
+.theres-more-to {
+  margin: 0;
+}
+.theres-more-to-container {
+  left: 108px;
+  height: 134px;
+}
+.be-the-change-container,
+.enabling-more-with-container,
+.theres-more-to-container {
+  position: absolute;
+  top: 428px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 281px;
+}
+.enabling-more-with-container {
+  left: 543px;
+  height: 118px;
+}
+.be-the-change-container {
+  right: 107px;
+  height: 134px;
+}
+.custom-size-13 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
